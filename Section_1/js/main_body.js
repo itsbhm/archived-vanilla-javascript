@@ -1,0 +1,1 @@
+alert("Method #4: Welcome From External JS via Body!");

@@ -1,0 +1,1 @@
+alert("Method #5: Welcome From External JS via Head!");
